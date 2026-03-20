@@ -13,6 +13,7 @@ Simple list of popular or nonpopular javascript deobfuscators.
 | [JSDetox](https://svent.dev/projects/jsdetox/) | A powerful tool for analyzing malicious JavaScript with safe execution and deobfuscation capabilities. |
 | [Malzilla](https://malzilla.org/) | An old-school tool, but still useful for analyzing and deobfuscating malicious scripts. |
 
+
 ### Hard Obfuscation
 | Name | Description |
 |------|------------|
